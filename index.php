@@ -93,7 +93,7 @@ core::$sql-> changeDB('acc');
 				
 				<div class="navtop_name">
 				<p class="namelink">Downloads</p>
-				<p class="description quest">Version [CHANGE HERE]</p>
+				<p class="description quest">Version [VER]</p>
 				</div>
 				
 				</div>
