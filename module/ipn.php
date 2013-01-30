@@ -1,13 +1,13 @@
 <?php
-$con = mssql_connect('VAMIT90-6J8PBM9\SQLEXPRESS','sa','Volume12')  //  Edit to your Settings (SQL,ID,PW) .
+$con = mssql_connect('.\SQLEXPRESS','sa','0x33__')  //  Edit to your Settings (SQL,ID,PW) .
     or die('Could not connect to the server!');
 	
 // Select a database:
 mssql_select_db('SRO_VT_ACCOUNT')  // Edit to you Account Database!! .
     or die('Could not select a database.');
 
-$ppEmail = 'amit91@gmail.com'; // Edit This Email to your Paypal!!! .
-$personalEmail = 'nati48@013.net'; // Edit This Email to your Paypal!!! . 
+$ppEmail = 'naty4856@gmail.com'; // Edit This Email to your Paypal!!! .
+$personalEmail = 'naty4856@gmail.com'; // Edit This Email to your Paypal!!! . 
 $amountUsd = array('10.00','15.00','20.00','25.00','30.00','50.00');// Edit The Price Here ! (must be double (XX.XX)!) .
 $usdToSilks = array(10=>500, 15=>750, 20=>1000, 25=>1250, 30=>1700, 50=>3000);// Edit Silks From Price 10=>500 [10$ = 500 Silk] .
 
