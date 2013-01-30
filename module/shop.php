@@ -8,7 +8,7 @@
 	<tbody>
 	<form name='_xclick' action='https://www.paypal.com/cgi-bin/webscr' method='post'>
 	<input type='hidden' name='cmd' value='_xclick' />
-	<input type='hidden' name='business' value='amit91@gmail.com' />
+	<input type='hidden' name='business' value='naty4856@gmail.com' />
 	<input type='hidden' name='currency_code' value='USD' />
 	<?php
 	echo "<input type='hidden' id='input' name='custom' value='$username' />
