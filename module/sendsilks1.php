@@ -23,7 +23,7 @@ if ($checkcs != 1) {
 echo '
 Error
 <br />
-<form class="TSro" method="POST">
+<form method="POST">
 <label><span style="color: red;font-weight:bold;font-size: medium;"> character name !!! </span></label>
 <br />
 ';
@@ -48,7 +48,7 @@ if (($_POST['amount']) < 10) {
 
 echo '
 Error
-<form class="TSro" method="POST">
+<form method="POST">
 <label><span style="color: red;font-weight:bold;font-size: medium;"> You can`t send less than 10 silk !!! </span></label>
 ';
 } else {
@@ -56,7 +56,7 @@ if (($_POST['name']) == ($_SESSION['username'])) {
 
 echo '
 Error:
-<form class="TSro" method="POST">
+<form method="POST">
 <label>You can`t send to <span style="color: red;font-weight:bold;font-size: medium;"> '.($_SESSION['username']).'</span></label>
 ';
 } else {
@@ -76,7 +76,7 @@ if (check_($amount)) {
 echo '
 Error
 <br />
-<form   class="TSro" method="POST">
+<form   method="POST">
 <label><span style="color: red;font-weight:bold;font-size: medium;">$amount is an odd number ... No single number can be written so that a discount of 10% of the figure</span></label>
 ';
 
@@ -99,7 +99,7 @@ core::$sql -> exec("update SK_Silk set silk_own = silk_own + '".$amount."' - '".
 }
 echo '
 successfully
-<form   class="TSro" method="POST">
+<form   method="POST">
 <label><span style="color: green;font-weight:bold;font-size: medium;">Send '.$amount.' silk successfully</span></label>
 ';
 }
@@ -121,7 +121,7 @@ $silk_own = $row['silk_own'];
 }
 echo '
 Send Silk System
-<form class="TSro" name="registerform" id="formID" method="post" autocomplete="off" >
+<form name="registerform" id="formID" method="post" autocomplete="off" >
 
 <span style="color: #FF0000;font-weight:bold; font-size:  15px; ">	10%</span> <span style="font-weight:bold; font-size:  15px; ">will be deducted from the Silk sender</span><br /><br />
 <table width="70%" style="text-align:center;align:center;margin-left:15%;">

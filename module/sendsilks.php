@@ -23,7 +23,7 @@ function check_pers ($per,$total){
 						echo '
 						Error
 						<br />
-						<form class="TSro" method="POST">
+						<form  method="POST">
 						<label><span style="color: red;font-weight:bold;font-size: medium;"> character name !!! </span></label>
 						';
 					} else {
@@ -39,7 +39,7 @@ function check_pers ($per,$total){
 					echo '
 		   Error
 		   <br />
-		    <form  class="TSro" method="POST">
+		    <form   method="POST">
 			<label><span style="color: red;font-weight:bold;font-size: medium;"> You can`t send less than 10 silk !!! </span></label>
 			';
 					} else {
@@ -48,7 +48,7 @@ function check_pers ($per,$total){
 										echo '
 		    <div class="top">Error</div>
 			<br />
-		    <form   class="TSro" method="POST">
+		    <form    method="POST">
 			<label>You can`t send to <span style="color: red;font-weight:bold;font-size: medium;"> '.($_SESSION['username']).'</span></label>
 			';
 					} else {
@@ -69,7 +69,7 @@ function check_pers ($per,$total){
 		    <div class="top">Error</div>
 		    <div class="content">
 		    <div id="content" class="content-inner">
-		    <form   class="TSro" method="POST">
+		    <form    method="POST">
 			<div class="reg">
 			<label><span style="color: red;font-weight:bold;font-size: medium;">$amont is an odd number ... No single number can be written so that a discount of 10% of the figure</span></label>
 			</div>
@@ -97,7 +97,7 @@ function check_pers ($per,$total){
 							echo '
 							sent successfully !
 							<br />
-							<form  class="TSro" method="POST">
+							<form   method="POST">
 							<br />
 							<label><span style="color: green;font-weight:bold;font-size: medium;">'.$amont.' silks sent successfully</span></label>
 							';
@@ -118,7 +118,7 @@ function check_pers ($per,$total){
 						$silk_own = user::getSilkByUsername($IDs);
 		echo '
 			Send Silk system .
-			<form class="TSro" name="registerform" id="formID" method="post" autocomplete="off" >
+			<form  name="registerform" id="formID" method="post" autocomplete="off" >
 						<span style="color: #FF0000;font-weight:bold; font-size:  15px; ">	10%</span> <span style="font-weight:bold; font-size:  15px; ">will be deducted from the Silk sender</span><br /><br />
 
 											<table width="70%" style="text-align:center;align:center;margin-left:15%;">
