@@ -1,7 +1,7 @@
 <?php
-$cfg['sqlHost'] = 'VAMIT90-6J8PBM9\SQLEXPRESS';
+$cfg['sqlHost'] = '.\SQLEXPRESS';
 $cfg['sqlUser'] = 'sa';
-$cfg['sqlPass'] = 'Volume12';
+$cfg['sqlPass'] = '0x33__';
 
 $cfg['aDatabases'] = array();
 $cfg['aDatabases'][0] = "SRO_VT_ACCOUNT";
