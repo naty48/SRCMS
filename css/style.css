@@ -1,0 +1,227 @@
+body { margin: 0; }
+
+#wrapper { margin-top: 10px; }
+
+#overlay { margin-top: -10px; position: absolute; overflow: hidden; width: 100%; height: 100%; background-color:#000; opacity: 0.78; z-index: 98; display:none; 
+ background-image: url(images/ajax-loader.gif); background-position:center; background-repeat:no-repeat;  }
+
+.iconlarge { height: 68px; width: 68px; }
+.webshop { background-color: #1e1e1e; background-image:url(../centurion/images/content_bg.png); background-repeat:repeat-x;  
+border: 1px solid #343434; }
+.webshop .col0 { border-left: 1px solid #343434; }
+.webshop .col { float: left; width: 308px; padding: 5px 10px; min-height: 300px; }
+.webshop .col1 { border-right: 1px solid #343434; }
+.clear { clear: both; }
+.webshop .col .wheader { color: white; font-size: 15px; font-weight: normal; margin: 0 0 5px; padding: 3px 8px; 
+color: #999; background-image:url(../centurion/images/account_func_bg.png); background-repeat:repeat-x; border: 1px solid #343434; }
+.iconmedium del { background-image: url("images/icon_border_medium.png"); height: 48px; width: 44px; z-index: 10; }
+.webshop .col .iinfo { float: left; width: 228px; padding: 8px 5px 0 5px; }
+.webshop .col .icon { float: left; }
+.iconmedium { background-image: url("images/icon_border_medium.png"); height: 44px; width: 44px; z-index: 10; }
+.iconsmall, .iconmedium, .iconlarge { position: relative; z-index: 0; }
+.webshop .col .a { padding: 5px 4px; display: block; text-decoration: none; font-size: 14px; height: 44px; }
+.webshop .col .a:hover { background-color: #333; color: white; cursor: pointer; }
+.iconmedium ins { height: 36px; left: 4px; top: 4px; width: 36px; }
+.iconsmall ins, .iconmedium ins, .iconlarge ins { background-repeat: no-repeat; display: block; position: absolute; z-index: 5; }
+.webshop .col .a:hover { color: white; cursor: pointer; }
+.webshop .col .iinfo span { color: #FFC000; font-size: 12px; }
+.iconsmall del, .iconmedium del, .iconlarge del { background-repeat: no-repeat; display: block; left: 0; position: absolute; top: 0; z-index: 10; }
+.iconlarge del { background-image: url("images/icon_border_large.png"); height: 68px; width: 68px; }
+.iconlarge ins { height: 56px; left: 6px; top: 6px; width: 56px; }
+
+.orange_tooltip { color: #FF8000; }
+.purple_tooltip { color: #A335EE; }
+.blue_tooltip { color: #0070DD; }
+.green_tooltip { color: #1EFF00; }
+.gray_tooltip { color: #9D9D9D; }
+.white_tooltip { color: #fff; }
+.gold_tooltip { color: #E5CC80; } 
+
+.warrior_color { color: #C69B6D; }
+.paladin_color { color: #F48CBA; }
+.hunter_color { color: #AAD372; }
+.rogue_color { color: #FFF468; }
+.priest_color { color: #FFF; }
+.dk_color { color: #C41E3B; }
+.shaman_color { color: #2359FF; }
+.mage_color { color: #68CCEF; }
+.warlock_color { color: #9382C9; }
+.druid_color { color: #FF7C0A; }
+
+.CSSTableGenerator {
+
+	margin:0px;padding:0px;
+
+	width:100%;
+
+	border:1px solid #d8d8d8;
+
+	
+
+	-moz-border-radius-bottomleft:0px;
+
+	-webkit-border-bottom-left-radius:0px;
+
+	border-bottom-left-radius:0px;
+
+	
+
+	-moz-border-radius-bottomright:0px;
+
+	-webkit-border-bottom-right-radius:0px;
+
+	border-bottom-right-radius:0px;
+
+	
+
+	-moz-border-radius-topright:0px;
+
+	-webkit-border-top-right-radius:0px;
+
+	border-top-right-radius:0px;
+
+	
+
+	-moz-border-radius-topleft:0px;
+
+	-webkit-border-top-left-radius:0px;
+
+	border-top-left-radius:0px;
+
+}.CSSTableGenerator table{
+
+	width:100%;
+
+	height:100%;
+
+	margin:0px;padding:0px;
+
+}.CSSTableGenerator tr:last-child td:last-child {
+
+	-moz-border-radius-bottomright:0px;
+
+	-webkit-border-bottom-right-radius:0px;
+
+	border-bottom-right-radius:0px;
+
+}
+
+.CSSTableGenerator table tr:first-child td:first-child {
+
+	-moz-border-radius-topleft:0px;
+
+	-webkit-border-top-left-radius:0px;
+
+	border-top-left-radius:0px;
+
+}
+
+.CSSTableGenerator table tr:first-child td:last-child {
+
+	-moz-border-radius-topright:0px;
+
+	-webkit-border-top-right-radius:0px;
+
+	border-top-right-radius:0px;
+
+}.CSSTableGenerator tr:last-child td:first-child{
+
+	-moz-border-radius-bottomleft:0px;
+
+	-webkit-border-bottom-left-radius:0px;
+
+	border-bottom-left-radius:0px;
+
+}.CSSTableGenerator tr:hover td{
+
+	
+
+}
+.CSSTableGenerator tr:nth-child(odd){ background-color:#aad4ff; }
+
+.CSSTableGenerator tr:nth-child(even)    { background-color:#ffffff; }
+.CSSTableGenerator td{
+
+	vertical-align:middle;
+
+	
+
+	
+
+	border:1px solid #d8d8d8;
+
+	border-width:0px 1px 1px 0px;
+
+	text-align:center;
+
+	padding:9px;
+
+	font-size:18px;
+
+	font-family:Arial;
+
+	font-weight:normal;
+
+	color:#000000;
+
+}.CSSTableGenerator tr:last-child td{
+
+	border-width:0px 1px 0px 0px;
+
+}.CSSTableGenerator tr td:last-child{
+
+	border-width:0px 0px 1px 0px;
+
+}.CSSTableGenerator tr:last-child td:last-child{
+
+	border-width:0px 0px 0px 0px;
+
+}
+
+.CSSTableGenerator tr:first-child td{
+
+		background:-o-linear-gradient(bottom, #56aaff 5%, #56aaff 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #56aaff), color-stop(1, #56aaff) );
+	background:-moz-linear-gradient( center top, #56aaff 5%, #56aaff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#56aaff", endColorstr="#56aaff");	background: -o-linear-gradient(top,#56aaff,56aaff);
+
+
+	background-color:#56aaff;
+
+	border:0px solid #d8d8d8;
+
+	text-align:center;
+
+	border-width:0px 0px 1px 1px;
+
+	font-size:17px;
+
+	font-family:Arial Black;
+
+	font-weight:bold;
+
+	color:#ffffff;
+
+}
+
+.CSSTableGenerator tr:first-child:hover td{
+
+	background:-o-linear-gradient(bottom, #56aaff 5%, #56aaff 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #56aaff), color-stop(1, #56aaff) );
+	background:-moz-linear-gradient( center top, #56aaff 5%, #56aaff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#56aaff", endColorstr="#56aaff");	background: -o-linear-gradient(top,#56aaff,56aaff);
+
+
+	background-color:#56aaff;
+
+}
+
+.CSSTableGenerator tr:first-child td:first-child{
+
+	border-width:0px 0px 1px 0px;
+
+}
+
+.CSSTableGenerator tr:first-child td:last-child{
+
+	border-width:0px 0px 1px 1px;
+
+}

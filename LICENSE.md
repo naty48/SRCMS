@@ -5,11 +5,11 @@ Please, read this carefully. By using all or any portion of the Software you acc
 1. DEFINITIONS
 When used in this Agreement, the following terms shall have the respective meanings indicated, such meanings to be applicable to both the singular and plural forms of the terms defined:
 
-"Licensor" means Eltima Software.
+"Licensor" means SRCMS Software.
 
 "Licensee" means You or Your Company, unless otherwise indicated.
 
-"Software" means (a) all of the contents of the files, disk(s), CD-ROM(s) or other media with which this Agreement is provided, including but not limited to ((i) registration information, i.e. License key which is unique for a registration name of the Licensee; (ii) related explanatory written materials or files ("Documentation"); and (iii) Software setup files and code samples (if any); and (b) upgrades, modified versions, updates, additions, and copies of the Software, if any, licensed to you by Eltima Software (collectively, "Updates").
+"Software" means (a) all of the contents of the files, disk(s), CD-ROM(s) or other media with which this Agreement is provided, including but not limited to ((i) registration information, i.e. License key which is unique for a registration name of the Licensee; (ii) related explanatory written materials or files ("Documentation"); and (iii) Software setup files and code samples (if any); and (b) upgrades, modified versions, updates, additions, and copies of the Software, if any, licensed to you by SRCMS Software (collectively, "Updates").
 
 "Use" or "Using" means to access, install, download, copy or otherwise benefit from using the functionality of the Software in accordance with the Documentation.
 
