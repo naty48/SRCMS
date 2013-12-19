@@ -145,6 +145,16 @@ v 1.3A
 	- Started working at vote4silk system .
 	- Rewrote shop.php (now you just need to change email ,Amounts/prices , nothing else!!) .
 	
+========================================================================================
+V 1.3B
+	- Fixed Security issue inside Core.php (UnSerialized pages) . 
+ 	- Fixed Security Issues in Paypal IPN (INSTANT PAYMENT NOTFICATION) .
+	- Added Email Option inside the config file to controll the whole email system .
+	- Redesigned Ranking -> Fixed 3 Systems (Top Items [Images],Top Players [Cash & Gold in storage] ,Unique Kills [Dynamic Naming) .
+	- Changed Project status to Deprecated .
+	
+	
+	
 | EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
 | EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
 | EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
