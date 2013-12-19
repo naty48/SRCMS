@@ -63,6 +63,7 @@ class core
 		include 'class/ucp.class.php';
 		include 'class/guild.class.php';
 		include 'config.inc.php';
+		//include 'class/advancedshop.class.php';
 		
 		
 		self::$sec = new security();
@@ -72,6 +73,7 @@ class core
 		self::$guild = new guild();
 		self::$ucp = new ucp();
 		self::$misc = new misc();
+		//self::$advancedshop = new shop();
 		
 
 	}
