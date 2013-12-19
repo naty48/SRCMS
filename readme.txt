@@ -8,6 +8,11 @@
 for updates and more releases : http://ebx7.net/index.php?/topic/59-release-unofficial-srcms-free-website-for-your-server-v-12b/
 
 
+-- This CMS is deprecated .
+-- a newer version will be ready as soon as possible .
+
+-- [Created by NATI LEVIN (ISRADEV @2013) ] -- 
+
 Installation:
 
 - Copy all files to your htdocs/wwwroot
