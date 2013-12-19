@@ -191,8 +191,8 @@ core::$sql-> changeDB('acc');
 	</div> 
 	
 	<div id="footer">
-<p align="center"><font>Coded by Chernobyl &amp; Naty48 | Designed by Naty48.</font><br>
-<font>&reg;2012 HolySro All Rights Reserved</font>
+<p align="center"><font>Coded by Naty48 | Designed by Naty48.</font><br>
+<font>&reg;2013 ISRADEV All Rights Reserved</font>
 
 	</div>
 	
