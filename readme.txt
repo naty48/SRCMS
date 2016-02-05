@@ -1,16 +1,7 @@
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-
-for updates and more releases : http://ebx7.net/index.php?/topic/59-release-unofficial-srcms-free-website-for-your-server-v-12b/
+for more updates and new releases : http://ebx7.net/index.php?/topic/59-release-srcms-free-website-for-your-server-v-12b/
 
 
--- This CMS is deprecated .
--- a newer version will be ready as soon as possible .
-
+-- This CMS is deprecated as for 2015 , a newer project may be publiced soon under the name NCoreWeb .
 -- [Created by NATI LEVIN (ISRADEV @2013) ] -- 
 
 Installation:
@@ -152,12 +143,3 @@ V 1.3B
 	- Added Email Option inside the config file to controll the whole email system .
 	- Redesigned Ranking -> Fixed 3 Systems (Top Items [Images],Top Players [Cash & Gold in storage] ,Unique Kills [Dynamic Naming) .
 	- Changed Project status to Deprecated .
-	
-	
-	
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
-| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET| EBX7.NET | EBX7.NET | EBX7.NET
